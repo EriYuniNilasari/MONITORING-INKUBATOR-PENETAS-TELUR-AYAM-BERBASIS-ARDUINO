@@ -32,8 +32,6 @@ https://drive.google.com/file/d/1w3_NeWyWLcLkNoWNe3CvCNe9nZayfFZ7/view?usp=shari
 
 ### Referensi
 [1]	D. Jufril, Darwison, B. Rahmadya, dan Derisma, “Implementasi Mesin Penetas Telur Ayam Otomatis,” Tinf - 012, no. November, hal. 1–6, 2015.
-
 [2]	S. Shafiudin, “SISTEM MONITORING DAN PENGONTROLAN TEMPERATUR PADA INKUBATOR PENETAS TELUR BERBASIS PID Sofyan Shafiudin Nur Kholis Abstrak,” J. Tek. Elektro, vol. 06, no. 03, hal. 175–184, 2017, [Daring]. Tersedia pada: https://ejournal.unesa.ac.id/index.php/jurnal-teknik-elektro/article/view/19932/18237.
-
 [3]	A. Dian, D. F. Lalita, dan N. M. Zaenudin, “Perancangan Dan Pembuatan Alat Inkubator Berbasis Mikrokontroler,” J. Ind. Elektro dan …, vol. 9, no. 1, hal. 52–62, 2020, [Daring]. Tersedia pada: http://jurnal.unnur.ac.id/index.php/indept/article/view/374.
 
